@@ -6,13 +6,13 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
     <item>
-      <title>Version 1.0.14</title>
-      <pubDate>Fri, 02 Oct 2026 12:00:00 +0200</pubDate>
-      <sparkle:version>16</sparkle:version>
-      <sparkle:shortVersionString>1.0.14</sparkle:shortVersionString>
+      <title>Version 1.0.15</title>
+      <pubDate>Fri, 02 Oct 2026 13:10:00 +0200</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>1.0.15</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Ein Klick auf eine Zeile stellt die Messung in die Mitte des Plans.</p>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.14.zip" sparkle:edSignature="6qEt+HhlRfvmnx47a8AlAP0x3uLosHHpWib3oS2/gFDKg3uN/VRifSGwYogLYs4Eccb9Wmos9HUBXCij1K/mBg==" length="4820684" type="application/octet-stream"/>
+      <description><![CDATA[<p>Laibungen: zwei Klicks für die Breite, danach die Länge von Hand. Nummern LAIB1, LAIB2, eigener Kreis.</p>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.15.zip" sparkle:edSignature="ZwpZtZB4KD+lYvbSm4hRsHktx2hZFn2NQ/Iq1gpYZOSIt9gQNPP8u2jasuuT766Is0t2At5qnQORp5kmgJ9PAw==" length="4921342" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
