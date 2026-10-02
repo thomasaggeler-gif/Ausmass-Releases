@@ -6,13 +6,13 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
     <item>
-      <title>Version 1.0.12</title>
-      <pubDate>Fri, 02 Oct 2026 11:43:00 +0200</pubDate>
-      <sparkle:version>14</sparkle:version>
-      <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
+      <title>Version 1.0.13</title>
+      <pubDate>Fri, 02 Oct 2026 11:52:00 +0200</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>1.0.13</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Eine Fläche lässt sich in eine andere Kategorie kopieren. In der Tabelle: Zeile wählen, «Kopieren nach».</p>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.12.zip" sparkle:edSignature="zn3sy4kEEuOZJBZVlFcgPvoaPxL1AY0NhmhDZVbwhW0rZSN76RhQigZaq/YaflTe+YPtxW0XGsaM0FxSZbVvDA==" length="4820184" type="application/octet-stream"/>
+      <description><![CDATA[<p>Ein Klick auf eine Zeile in der Tabelle zoomt den Plan auf diese Messung und hebt sie hervor. Jedes Ausmass lässt sich in jede andere Kategorie kopieren.</p>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.13.zip" sparkle:edSignature="Yp/rIWUrYN4qk1PEV1xvTjgl1+ZUPltbo+gZmE8SSQSnJcN5j8sHrtN88nrNTuDpV9nQ+rZUSi3riCPc9dajDg==" length="4820056" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
