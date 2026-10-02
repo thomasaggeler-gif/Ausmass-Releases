@@ -6,13 +6,13 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
     <item>
-      <title>Version 1.0.28</title>
-      <pubDate>Fri, 02 Oct 2026 16:41:00 +0200</pubDate>
-      <sparkle:version>30</sparkle:version>
-      <sparkle:shortVersionString>1.0.28</sparkle:shortVersionString>
+      <title>Version 1.0.29</title>
+      <pubDate>Fri, 02 Oct 2026 21:00:00 +0200</pubDate>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>1.0.29</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Die Punkte einer markierten Messung sind wieder klein und richten sich nach dem Massstab.</li><li>Die beiden Leisten oben folgen der Grösse unter Darstellung → Seitenleiste.</li><li>Rechtsklick im Plan: «Kopieren nach» und «Verschieben nach» für die markierten Ausmasse.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.28.zip" sparkle:edSignature="7cscbxCE5n1rBunDfVzCONo0ZIZ7qGPPhRzV7y5RWCUY357DZkiwu++osmCcHlRxcmW5Z/sZ5xrUE2hR0ba2Cg==" length="5258692" type="application/octet-stream"/>
+      <description><![CDATA[<p>Rundungen im Plan werden übernommen. Liegen zwei Punkte einer Fläche, Länge oder Wand auf derselben Rundung, folgt die Linie dem Bogen. Alt zeichnet diese Strecke gerade.</p>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.29.zip" sparkle:edSignature="KywZpxMwvjKWGS16B0dcJLB11SJlOFqbrGeXnvGSdJkg1S8buzdaBHLJk2X+42r1pHZXeOBmt+vuNI3loAAkAQ==" length="5285070" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
