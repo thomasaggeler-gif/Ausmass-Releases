@@ -6,13 +6,13 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
     <item>
-      <title>Version 1.0.17</title>
-      <pubDate>Fri, 02 Oct 2026 13:24:00 +0200</pubDate>
-      <sparkle:version>19</sparkle:version>
-      <sparkle:shortVersionString>1.0.17</sparkle:shortVersionString>
+      <title>Version 1.0.18</title>
+      <pubDate>Fri, 02 Oct 2026 13:43:00 +0200</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>1.0.18</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Die Laibungslänge wird nur noch links bei der Kategorie gesetzt. Oben erscheint kein Eingabefeld mehr.</p>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.17.zip" sparkle:edSignature="7wseFugF6l9CW3a/2PzQegDDIwEYaI/d/NcwgClLm337ILVJ6LYkLKXHd8thmpvmRgmlpDh9SdgG/hbUSQ+oBg==" length="4914977" type="application/octet-stream"/>
+      <description><![CDATA[<p>Laibungen stehen in der Liste gleich hoch wie die anderen Zeilen. Die Länge steht bei Länge, die Breite bei Höhe.</p>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.18.zip" sparkle:edSignature="NGiz0EYTnKSCtFlajoP6l26wzWXvWarGxi35c7ckoH+dI1HwZceABPlQWCDR8Ovm0apvZh3phG/od5hS4yVsCg==" length="4908070" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
