@@ -1,6 +1,6 @@
 {
-  "build" : 6,
-  "file" : "Ausmass Tool-1.0.5-6.zip",
-  "notes" : "Kategorien lassen sich gruppieren und einklappen. Eine Fläche kann in eine andere Kategorie kopiert werden.",
+  "build" : 7,
+  "file" : "Ausmass Tool-1.0.5-7.zip",
+  "notes" : "Kategorien lassen sich gruppieren und einklappen. Der Installer startet die neue Fassung danach selbst.",
   "version" : "1.0.5"
 }
