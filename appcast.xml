@@ -6,13 +6,13 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
     <item>
-      <title>Version 1.0.19</title>
-      <pubDate>Fri, 02 Oct 2026 14:07:00 +0200</pubDate>
-      <sparkle:version>21</sparkle:version>
-      <sparkle:shortVersionString>1.0.19</sparkle:shortVersionString>
+      <title>Version 1.0.20</title>
+      <pubDate>Fri, 02 Oct 2026 14:47:00 +0200</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>1.0.20</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Bauteile: ein Klick setzt eine Markierung. Die Nummer ist zum Beispiel SCH 1. Die Summe ist die Stückzahl.</p>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.19.zip" sparkle:edSignature="m47QEJjoOd4r88RLFz/2cmT20v4MnGa44tF+PzrXz5hnt2PZb1Zt2oS4Tv1B8if+mD0AksYQEJfiVgfQLPO7Cw==" length="4916992" type="application/octet-stream"/>
+      <description><![CDATA[<p>Die Liste lässt sich ablösen und auf einen zweiten Bildschirm ziehen. Ausmasse können in eine andere Kategorie verschoben werden. Ein Klick im Plan setzt die Zeile in die Mitte der Liste.</p>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.20.zip" sparkle:edSignature="L8gmbsJ6Ad/ZOHbHQLHlz7xJDTnqY3qSso1bu002c4xZbCKHKienD8O6FaYIcyF2FJv6SP5shPDPO1M+kP/6Bg==" length="4989682" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
