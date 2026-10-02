@@ -6,13 +6,13 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
     <item>
-      <title>Version 1.0.29</title>
-      <pubDate>Fri, 02 Oct 2026 21:00:00 +0200</pubDate>
-      <sparkle:version>31</sparkle:version>
-      <sparkle:shortVersionString>1.0.29</sparkle:shortVersionString>
+      <title>Version 1.0.30</title>
+      <pubDate>Fri, 02 Oct 2026 21:14:00 +0200</pubDate>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>1.0.30</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Rundungen im Plan werden übernommen. Liegen zwei Punkte einer Fläche, Länge oder Wand auf derselben Rundung, folgt die Linie dem Bogen. Alt zeichnet diese Strecke gerade.</p>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.29.zip" sparkle:edSignature="KywZpxMwvjKWGS16B0dcJLB11SJlOFqbrGeXnvGSdJkg1S8buzdaBHLJk2X+42r1pHZXeOBmt+vuNI3loAAkAQ==" length="5285070" type="application/octet-stream"/>
+      <description><![CDATA[<p>Rundungen aus vielen kurzen Strichen im Plan werden mit übernommen. Die gestrichelte Vorschau folgt dem Bogen. Alt zeichnet gerade.</p>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.30.zip" sparkle:edSignature="js2CjGywymUMWvOAsZy6Ic416Y423k2GqOAZGIBd+ngJ4nX7dYwzWHikL+kIUup/91UafFEzSYiCUUbaJSZjCQ==" length="5296359" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
