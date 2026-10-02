@@ -6,13 +6,13 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
     <item>
-      <title>Version 1.0.11</title>
-      <pubDate>Fri, 02 Oct 2026 11:34:00 +0200</pubDate>
-      <sparkle:version>13</sparkle:version>
-      <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
+      <title>Version 1.0.12</title>
+      <pubDate>Fri, 02 Oct 2026 11:43:00 +0200</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Eine offene Gruppe ist von den übrigen Kategorien abgesetzt.</p>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.11.zip" sparkle:edSignature="jBn9UD52STlNaUYwnGYpEDEQiyJvUt/ZAygpg5VtaThWhHQtP1WlJCK0dux93ndcvsLU70G3ANh9bFClMZesCg==" length="4806944" type="application/octet-stream"/>
+      <description><![CDATA[<p>Eine Fläche lässt sich in eine andere Kategorie kopieren. In der Tabelle: Zeile wählen, «Kopieren nach».</p>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.12.zip" sparkle:edSignature="zn3sy4kEEuOZJBZVlFcgPvoaPxL1AY0NhmhDZVbwhW0rZSN76RhQigZaq/YaflTe+YPtxW0XGsaM0FxSZbVvDA==" length="4820184" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
