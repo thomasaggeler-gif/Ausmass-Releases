@@ -6,13 +6,13 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
     <item>
-      <title>Version 1.0.23</title>
-      <pubDate>Fri, 02 Oct 2026 15:57:00 +0200</pubDate>
-      <sparkle:version>25</sparkle:version>
-      <sparkle:shortVersionString>1.0.23</sparkle:shortVersionString>
+      <title>Version 1.0.24</title>
+      <pubDate>Fri, 02 Oct 2026 16:12:00 +0200</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>1.0.24</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Abzüge gehen mit, wenn ihr Ausmass kopiert, im Plan verschoben oder einem Stockwerk zugewiesen wird. Mehrere markierte Zeilen lassen sich auf einmal in eine andere Kategorie verschieben.</p>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.23.zip" sparkle:edSignature="shntA70yMr10IEj2qe4fWlQM2QJjPtoGyJqoYe48eqYR6CNmIs68w1h/Z++cYMkyTgc0lOHb3OGO/C/SEURJAw==" length="5214626" type="application/octet-stream"/>
+      <description><![CDATA[<p>Mehrere markierte Zeilen lassen sich auf einmal in eine bestehende oder neue Kategorie kopieren. Die Leiste über der Liste ist ein Rechtsklick-Menü, die Liste ist dafür höher. Die Grösse der Seitenleiste lässt sich unter Darstellung einstellen.</p>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.24.zip" sparkle:edSignature="Itxfb137Jc8nwgnW64cQwHieEP2MvRpEv72/eHNUkeOP6LzgqZGhaKiBTKVw8BBf2WDlBnHSXx8yvr4zAakaBg==" length="5225351" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
