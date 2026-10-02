@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Ausmass</title>
+    <link>https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/appcast.xml</link>
+    <description>Updates für Ausmass</description>
+    <language>de</language>
+    <item>
+      <title>Version 1.0.7</title>
+      <pubDate>Fri, 02 Oct 2026 10:45:00 +0200</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Beim Start sind die Kategorien eingeklappt. Updates werden wie bei den anderen Programmen geladen und installiert.</p>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.7.zip" sparkle:edSignature="Bk9Q58ZN2jzYPnsOyi5BN8jGSua5L+oswKwn6obH7Zu/K6HUmfi5vKKF6DQWn/RBCMPpl2YP5qTrgNEQFT6FDg==" length="4884153" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
