@@ -1,6 +1,6 @@
 {
-  "build" : 7,
-  "file" : "Ausmass Tool-1.0.5-7.zip",
-  "notes" : "Kategorien lassen sich gruppieren und einklappen. Der Installer startet die neue Fassung danach selbst.",
-  "version" : "1.0.5"
+  "build" : 8,
+  "file" : "Ausmass Tool-1.0.6-8.zip",
+  "notes" : "Beim Start sind die Kategorien eingeklappt.",
+  "version" : "1.0.6"
 }
