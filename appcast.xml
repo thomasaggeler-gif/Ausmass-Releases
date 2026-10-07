@@ -6,13 +6,13 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
     <item>
-      <title>Version 1.0.31</title>
-      <pubDate>Wed, 07 Oct 2026 20:48:07 +0200</pubDate>
-      <sparkle:version>33</sparkle:version>
-      <sparkle:shortVersionString>1.0.31</sparkle:shortVersionString>
+      <title>Version 1.0.32</title>
+      <pubDate>Wed, 07 Oct 2026 21:09:30 +0200</pubDate>
+      <sparkle:version>34</sparkle:version>
+      <sparkle:shortVersionString>1.0.32</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Das Icon der App ist das dunkle Logo.</p>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.31.zip" sparkle:edSignature="gZP1HTd7EWrC3JqWzhCO8e2bwYq/x4o6BbopZpa4KXGBMy50jkuw1Ex9wFGWi3/ONq2OV8di9fN8DlUP4wB3Bg==" length="5253393" type="application/octet-stream"/>
+      <description><![CDATA[<p>Das Icon hat einen feinen hellen Glanzrand, oben links und unten rechts. Unter dem Logo steht «AusmassTool».</p>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.32.zip" sparkle:edSignature="+0x2evfphGNivhLk1Vk5eR3YWJIr+1/OIg+hM1dmRf4TShx/PMFFrTVu/UxlxUxr5FeKcKOXZmwmOXCzHmslBQ==" length="5443593" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
