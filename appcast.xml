@@ -6,13 +6,13 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
     <item>
-      <title>Version 1.0.33</title>
-      <pubDate>Thu, 08 Oct 2026 18:51:01 +0200</pubDate>
-      <sparkle:version>35</sparkle:version>
-      <sparkle:shortVersionString>1.0.33</sparkle:shortVersionString>
+      <title>Version 1.0.34</title>
+      <pubDate>Thu, 08 Oct 2026 20:30:11 +0200</pubDate>
+      <sparkle:version>36</sparkle:version>
+      <sparkle:shortVersionString>1.0.34</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Ein Abzug lässt sich wieder einer Wand oder Fläche zuordnen: in der Tabelle, Spalte «Gehört zu». Auch eine ganze Wand- oder Flächenkategorie ist wählbar.</p>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.33.zip" sparkle:edSignature="8yG7GUR7cQZLwfBcSvtEFDL4G9ceL6akGNM4Y6NB1mOZCSmV0sZqD1YKvLCrPw7zagbSMN9CCA5jBKw06zBNBg==" length="5458962" type="application/octet-stream"/>
+      <description><![CDATA[<p>Im Auswahlmodus lässt sich eine Seite einer Fläche oder Wand als Ganzes verschieben: beide Ecken wandern mit. Ein Punkt rastet auf eine Kante ein, auch mitten auf der Linie, und lässt sich genau auf einen bestehenden Punkt schieben. Ein Doppelklick auf eine Kante setzt einen neuen Punkt, ein Rechtsklick auf eine Ecke entfernt ihn. Ein Abzug lässt sich links bei der Kategorie zuordnen.</p>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.34.zip" sparkle:edSignature="JkL965lB940gVpiEctMafPcsIu+4M2gbefcJY6dfxHSY19Uqj/JThALvJ+0WKq1a0qkKQB1ARauC1r6iP+YxAA==" length="5520094" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
