@@ -6,13 +6,13 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
     <item>
-      <title>Version 1.0.32</title>
-      <pubDate>Wed, 07 Oct 2026 21:09:30 +0200</pubDate>
-      <sparkle:version>34</sparkle:version>
-      <sparkle:shortVersionString>1.0.32</sparkle:shortVersionString>
+      <title>Version 1.0.33</title>
+      <pubDate>Thu, 08 Oct 2026 18:51:01 +0200</pubDate>
+      <sparkle:version>35</sparkle:version>
+      <sparkle:shortVersionString>1.0.33</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Das Icon hat einen feinen hellen Glanzrand, oben links und unten rechts. Unter dem Logo steht «AusmassTool».</p>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.32.zip" sparkle:edSignature="+0x2evfphGNivhLk1Vk5eR3YWJIr+1/OIg+hM1dmRf4TShx/PMFFrTVu/UxlxUxr5FeKcKOXZmwmOXCzHmslBQ==" length="5443593" type="application/octet-stream"/>
+      <description><![CDATA[<p>Ein Abzug lässt sich wieder einer Wand oder Fläche zuordnen: in der Tabelle, Spalte «Gehört zu». Auch eine ganze Wand- oder Flächenkategorie ist wählbar.</p>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.33.zip" sparkle:edSignature="8yG7GUR7cQZLwfBcSvtEFDL4G9ceL6akGNM4Y6NB1mOZCSmV0sZqD1YKvLCrPw7zagbSMN9CCA5jBKw06zBNBg==" length="5458962" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
