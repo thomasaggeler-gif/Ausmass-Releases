@@ -5,6 +5,15 @@
     <link>https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/appcast.xml</link>
     <description>Updates für Ausmass</description>
     <language>de</language>
+        <item>
+            <title>Version 1.0.35</title>
+            <pubDate>Sat, 10 Oct 2026 17:24:26 +0200</pubDate>
+            <sparkle:version>37</sparkle:version>
+            <sparkle:shortVersionString>1.0.35</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Die Standardkategorie für Abzüge heisst «Abzug» statt «Abzug Tür/Fenster».</p>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.35.zip" length="5470880" type="application/octet-stream" sparkle:edSignature="CJk6jsw9TWX1XpLKBQXZrSiiSX610pwKqRxsmKumcam7x+oNKyvKVAjI9x3ZvkQBFu70GM7QUXMpF4CH9f+bDA=="/>
+        </item>
     <item>
       <title>Version 1.0.34</title>
       <pubDate>Thu, 08 Oct 2026 20:30:11 +0200</pubDate>
