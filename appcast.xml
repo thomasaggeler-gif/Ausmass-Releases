@@ -6,6 +6,15 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
         <item>
+            <title>Version 1.0.37</title>
+            <pubDate>Tue, 20 Oct 2026 16:33:03 +0200</pubDate>
+            <sparkle:version>39</sparkle:version>
+            <sparkle:shortVersionString>1.0.37</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>In einer Gruppe lassen sich einzelne Kategorien mit einem Häkchen auswählen. Unter dem Total der ganzen Gruppe steht dann das Total der ausgewählten Kategorien. «Auswahl aufheben» entfernt alle Häkchen der Gruppe.</p>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.37.zip" length="5581217" type="application/octet-stream" sparkle:edSignature="Z4pbR+y/HGERImL+9v+qBdwYZcWfetqI8jTgSStgkjMUgcMcBM2CQBqEVcOOkEQLe9QOdOo81xSR+vVl6r4lCA=="/>
+        </item>
+        <item>
             <title>Version 1.0.36</title>
             <pubDate>Mon, 12 Oct 2026 20:43:46 +0200</pubDate>
             <sparkle:version>38</sparkle:version>
