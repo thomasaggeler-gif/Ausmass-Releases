@@ -6,6 +6,15 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
         <item>
+            <title>Version 1.0.41</title>
+            <pubDate>Mon, 26 Oct 2026 16:07:35 +0100</pubDate>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>1.0.41</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Im Auswahlmodus lässt sich ein Rahmen über den Plan ziehen: Ab einer leeren Stelle ziehen, und alle eingeblendeten Ausmasse, die der Rahmen berührt, werden markiert. Mit gedrückter ⌘-Taste kommen sie zur bisherigen Auswahl dazu. Danach lassen sich alle gemeinsam verschieben, per Rechtsklick in eine Kategorie verschieben oder kopieren und löschen, genau wie mit ⌘-Klick. Ausgeblendete Ausmasse werden nie markiert. Die Abzüge von Wänden und Flächen gehen beim Verschieben und Kopieren automatisch mit.</p>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.41.zip" length="5610162" type="application/octet-stream" sparkle:edSignature="aAf4ivkvLXCF1fCrecC+Km32EQsUBmlZrBzQlhtaNG7sZvE6z1YyZ4AHwZsEwgu8XG9WQFSrla9Vz6iYIubcCA=="/>
+        </item>
+        <item>
             <title>Version 1.0.40</title>
             <pubDate>Mon, 26 Oct 2026 15:50:19 +0100</pubDate>
             <sparkle:version>42</sparkle:version>
