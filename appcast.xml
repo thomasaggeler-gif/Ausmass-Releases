@@ -6,6 +6,15 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
         <item>
+            <title>Version 1.0.43</title>
+            <pubDate>Mon, 26 Oct 2026 16:22:02 +0100</pubDate>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>1.0.43</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Gruppen lassen sich sortieren wie die Kategorien: Am Griff ≡ links in der Gruppenzeile ziehen und auf eine andere Gruppe fallen lassen. Die Gruppe nimmt deren Platz ein. Die Reihenfolge wird im Projekt gesichert.</p>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.43.zip" length="5617439" type="application/octet-stream" sparkle:edSignature="lAywkm3emoJmIgQ6XLOtetzpCDxWdl0yquMec6Y7fGR9Vk9/QPHIapuB+5GPJ/w32dShuoPSiuFabIapRo4hAA=="/>
+        </item>
+        <item>
             <title>Version 1.0.42</title>
             <pubDate>Mon, 26 Oct 2026 16:19:44 +0100</pubDate>
             <sparkle:version>44</sparkle:version>
