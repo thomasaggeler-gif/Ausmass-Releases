@@ -6,6 +6,15 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
         <item>
+            <title>Version 1.0.42</title>
+            <pubDate>Mon, 26 Oct 2026 16:19:44 +0100</pubDate>
+            <sparkle:version>44</sparkle:version>
+            <sparkle:shortVersionString>1.0.42</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Wird eine Kategorie eingeblendet, deren Gruppe ausgeblendet ist, geht die Gruppe automatisch mit an. Die übrigen Kategorien der Gruppe behalten ihre eigene Einstellung: Sichtbar werden nur die, deren Auge offen ist. Ein graues Auge zeigt eine Kategorie, die im Plan gerade nicht zu sehen ist, weil ihre Gruppe aus ist. Ein Klick darauf blendet sie ein.</p>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.42.zip" length="5613958" type="application/octet-stream" sparkle:edSignature="hqXfIdAfSGuAVd6Ttr5gUBHChpA9Ovhk9S7w4zFsXUFVcKgMduuoCqW/OQoebrs+HpLKC7lqnApUyqmoGRDWBQ=="/>
+        </item>
+        <item>
             <title>Version 1.0.41</title>
             <pubDate>Mon, 26 Oct 2026 16:07:35 +0100</pubDate>
             <sparkle:version>43</sparkle:version>
