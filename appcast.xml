@@ -6,6 +6,15 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
         <item>
+            <title>Version 1.0.44</title>
+            <pubDate>Mon, 26 Oct 2026 16:41:56 +0100</pubDate>
+            <sparkle:version>46</sparkle:version>
+            <sparkle:shortVersionString>1.0.44</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Bei Laibungen steht jetzt die Gesamtlänge statt «ohne Fläche»: die Summe aller Laibungslängen, egal mit welcher Breite oder Höhe. Sie erscheint in der Seitenleiste, im Total einer Gruppe und in der Summenzeile von Tabelle und Excel.</p>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.44.zip" length="5618402" type="application/octet-stream" sparkle:edSignature="3LHxg8lGD5OqSXBPB2wv2Y1DxPQXWxVhpf7fOcaYnK+NEycACh1QneLX/PK+UCjIGDl26V/WxgriHo5CC1nvAA=="/>
+        </item>
+        <item>
             <title>Version 1.0.43</title>
             <pubDate>Mon, 26 Oct 2026 16:22:02 +0100</pubDate>
             <sparkle:version>45</sparkle:version>
