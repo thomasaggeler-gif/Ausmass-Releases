@@ -6,6 +6,15 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
         <item>
+            <title>Version 1.0.38</title>
+            <pubDate>Mon, 26 Oct 2026 15:25:35 +0100</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>1.0.38</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Mit ⌘-Klick lassen sich im Plan mehrere Ausmasse gleichzeitig auswählen, ein zweiter ⌘-Klick nimmt eines wieder heraus. Zieht man an einem der ausgewählten Ausmasse, wandern alle gemeinsam, auch mit den Pfeiltasten. Mit Rechtsklick lassen sich alle ausgewählten in eine Kategorie verschieben oder kopieren. Ein einfacher Klick auf eines davon wählt nur noch dieses.</p><p>Die Projektdatei wird nur noch geändert, wenn du sicherst. Beim Schliessen fragt Ausmass deshalb immer, ob die Änderungen gesichert werden sollen.</p>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.38.zip" length="5590437" type="application/octet-stream" sparkle:edSignature="fvDM39K/HoTinqwvcpF9HBp+hsjvsNMN6DkJs5J4QMir+e8k8ZKfUGKl3+c0IeIA6IlsZJGzEJC3ZTUP1k8+Aw=="/>
+        </item>
+        <item>
             <title>Version 1.0.37</title>
             <pubDate>Tue, 20 Oct 2026 16:33:03 +0200</pubDate>
             <sparkle:version>39</sparkle:version>
