@@ -6,6 +6,15 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
         <item>
+            <title>Version 1.0.45</title>
+            <pubDate>Mon, 26 Oct 2026 17:18:33 +0100</pubDate>
+            <sparkle:version>47</sparkle:version>
+            <sparkle:shortVersionString>1.0.45</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Der Excel-Export ist neu aufgebaut und viel übersichtlicher. Das Blatt «Übersicht» zeigt auf einer Seite alle Gruppen und Kategorien mit Anzahl, Menge je Stockwerk, Total und Einheit, dazu ein Total pro Gruppe und die Gesamtfläche. Abzüge stehen grau daneben und zählen nicht doppelt. Das Blatt «Ausmass» listet die Einzelmessungen nach Gruppe und Kategorie, mit Länge, Höhe, Brutto, Abzug und Menge, darunter jeweils das Total. Alle Totale sind Excel-Formeln und rechnen mit, wenn man einen Wert ändert. Die Datei ist zum Drucken auf A4 eingerichtet. CSV und PDF-Tabelle bleiben wie bisher.</p>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.45.zip" length="5689356" type="application/octet-stream" sparkle:edSignature="sDiqE4xfSdHn7c2JZapDWZPsn+vAYa40IDKz0DCuHxGC+xqaIzmbM3b3R8eXQC5T26ylWtfFEwjcy5xuZGpwAw=="/>
+        </item>
+        <item>
             <title>Version 1.0.44</title>
             <pubDate>Mon, 26 Oct 2026 16:41:56 +0100</pubDate>
             <sparkle:version>46</sparkle:version>
