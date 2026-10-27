@@ -6,6 +6,15 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
         <item>
+            <title>Version 1.0.46</title>
+            <pubDate>Tue, 27 Oct 2026 08:52:14 +0100</pubDate>
+            <sparkle:version>48</sparkle:version>
+            <sparkle:shortVersionString>1.0.46</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Das Fenster «Exportieren» ist übersichtlicher. Oben wählst du die Planseiten mit einer Knopfleiste: alle, diese Seite, ein Bereich oder eine Auswahl. Darunter hakst du direkt an, was zur Mengentabelle dazukommt: hinten im PDF, mit oder ohne Logo, als Excel-Datei oder als CSV-Datei. Die Stockwerke für die Tabelle stehen nebeneinander. Unten steht, welche Dateien entstehen.</p>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.46.zip" length="5711864" type="application/octet-stream" sparkle:edSignature="a6xMc+eLkvQ6D6VtXYIaBOrXGxHbaFPXTg9+uGYLVhz/Cx1fKPX/i7eGxk3BdPt9nzPWx0jUhe2WDDtsIt3oDA=="/>
+        </item>
+        <item>
             <title>Version 1.0.45</title>
             <pubDate>Mon, 26 Oct 2026 17:18:33 +0100</pubDate>
             <sparkle:version>47</sparkle:version>
