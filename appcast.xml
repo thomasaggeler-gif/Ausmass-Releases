@@ -6,6 +6,15 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
         <item>
+            <title>Version 1.0.47</title>
+            <pubDate>Tue, 27 Oct 2026 09:07:45 +0100</pubDate>
+            <sparkle:version>49</sparkle:version>
+            <sparkle:shortVersionString>1.0.47</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Im Fenster «Exportieren» lässt sich wählen, wie viel von der Mengentabelle mitkommt: «Nur Übersicht» oder «Übersicht und Einzelmessungen». Mit «Nur Übersicht» enthält die Excel-Datei nur das Blatt «Übersicht», und hinten im PDF stehen nur die Übersichtsseiten mit Gruppen, Kategorien, Anzahl, Menge je Stockwerk und Total. Neu beginnt die Tabelle im PDF immer mit dieser Übersicht. Die Wahl wird im Projekt gespeichert. Die CSV-Datei enthält weiterhin alle Einzelmessungen.</p>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.47.zip" length="5754813" type="application/octet-stream" sparkle:edSignature="Q01DErBHXyp/7AQ6mjjs34pZ/Sh6z+9zPkp9BNA6unNrO+IJLKUbvGzewyuf68AAv/c1Mpy8ng/q/+R0ttazDw=="/>
+        </item>
+        <item>
             <title>Version 1.0.46</title>
             <pubDate>Tue, 27 Oct 2026 08:52:14 +0100</pubDate>
             <sparkle:version>48</sparkle:version>
