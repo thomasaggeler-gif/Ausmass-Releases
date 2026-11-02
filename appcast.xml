@@ -6,6 +6,15 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
         <item>
+            <title>Version 1.0.48</title>
+            <pubDate>Mon, 02 Nov 2026 12:14:04 +0100</pubDate>
+            <sparkle:version>50</sparkle:version>
+            <sparkle:shortVersionString>1.0.48</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Im Fenster «Exportieren» lassen sich die Gruppen wählen, zum Beispiel nur «Anstrich» für den Maler. Die Planseiten zeigen dann nur die Ausmasse dieser Gruppen, und die Mengentabelle in PDF, Excel und CSV enthält nur ihre Mengen. Eine gewählte Gruppe kommt auch mit, wenn sie im Plan gerade ausgeblendet ist. Ausgeblendete Kategorien bleiben draussen. Bei genau einer Gruppe steht ihr Name im vorgeschlagenen Dateinamen.</p>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.48.zip" length="5784315" type="application/octet-stream" sparkle:edSignature="ObS3qO2HQ1fzmFOylDIUXG8CEUtKkmLlyMrUKlJhnHecjz6/Oezre1/hvlYkniUUQwf3Yj3spEzZO+Fob8FmCw=="/>
+        </item>
+        <item>
             <title>Version 1.0.47</title>
             <pubDate>Tue, 27 Oct 2026 09:07:45 +0100</pubDate>
             <sparkle:version>49</sparkle:version>
