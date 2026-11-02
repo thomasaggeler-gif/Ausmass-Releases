@@ -6,6 +6,15 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
         <item>
+            <title>Version 1.0.49</title>
+            <pubDate>Mon, 02 Nov 2026 13:14:39 +0100</pubDate>
+            <sparkle:version>51</sparkle:version>
+            <sparkle:shortVersionString>1.0.49</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Das Fenster «Exportieren» führt in drei Schritten durch den Export: Welche Dateien willst du, wie ausführlich ist die Mengentabelle, und was kommt hinein. Unten steht in einem Satz, was du bekommst. Neu lässt sich auch ohne Pläne exportieren: dann enthält das PDF nur die Mengentabelle, oder es entsteht nur die Excel- bzw. CSV-Datei. Beim Export einzelner Gruppen kommen jetzt alle Kategorien der Gruppe mit, auch wenn sie im Plan ausgeblendet sind. Enthält eine Auswahl keine Ausmasse, meldet das Programm das, statt eine leere Datei zu schreiben.</p>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.49.zip" length="5805251" type="application/octet-stream" sparkle:edSignature="FTxFcDq2z+p6CklXlpJkWpuSC/FBCWZEns++55tySJaV4yfMA6eiTIks2pxrU/Zo2KuZ9LfQii1GblcSOLewCg=="/>
+        </item>
+        <item>
             <title>Version 1.0.48</title>
             <pubDate>Mon, 02 Nov 2026 12:14:04 +0100</pubDate>
             <sparkle:version>50</sparkle:version>
