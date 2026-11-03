@@ -6,6 +6,15 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
         <item>
+            <title>Version 1.0.51</title>
+            <pubDate>Tue, 03 Nov 2026 09:30:28 +0100</pubDate>
+            <sparkle:version>53</sparkle:version>
+            <sparkle:shortVersionString>1.0.51</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Im PDF mit den Plänen steht die Mengentabelle jetzt vorne, die Pläne folgen dahinter. Neu lässt sich die Mengentabelle zusätzlich als eigenes PDF exportieren, wahlweise in A4 oder A3. A3 ist dieselbe Tabelle, nur grösser gedruckt. Die Datei liegt neben dem Haupt-PDF und trägt «-Mengentabelle» im Namen.</p>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.51.zip" length="5829615" type="application/octet-stream" sparkle:edSignature="e99EU0g9clUUeBA4pJ3I/CwZo0quJxFjs5IFK+u+V6ZVT3OzJWDfuBxEdwk4YH8eJZlcevKB05/F/C04IC0pBg=="/>
+        </item>
+        <item>
             <title>Version 1.0.50</title>
             <pubDate>Mon, 02 Nov 2026 14:27:54 +0100</pubDate>
             <sparkle:version>52</sparkle:version>
