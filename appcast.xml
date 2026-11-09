@@ -6,6 +6,15 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
         <item>
+            <title>Version 1.0.53</title>
+            <pubDate>Mon, 09 Nov 2026 15:57:18 +0100</pubDate>
+            <sparkle:version>55</sparkle:version>
+            <sparkle:shortVersionString>1.0.53</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>In der Liste der Einzelmessungen im PDF passen sich die Spalten dem Inhalt an. Kategorien und Bezeichnungen werden nicht mehr abgeschnitten. Reicht der Platz nicht, bricht der Text auf eine weitere Zeile um.</p>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.53.zip" length="5852536" type="application/octet-stream" sparkle:edSignature="3RChPYvkM9eWnTgQtgGP2TX9LPlLVvfaz9iH5d8MhjP+vxubIcAv4283VxEcasnAwSJwViQQQ2U4Kg8K2VjlBw=="/>
+        </item>
+        <item>
             <title>Version 1.0.52</title>
             <pubDate>Mon, 09 Nov 2026 15:34:01 +0100</pubDate>
             <sparkle:version>54</sparkle:version>
