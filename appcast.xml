@@ -6,6 +6,15 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
         <item>
+            <title>Version 1.0.60</title>
+            <pubDate>Tue, 10 Nov 2026 14:57:36 +0100</pubDate>
+            <sparkle:version>62</sparkle:version>
+            <sparkle:shortVersionString>1.0.60</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Neu gibt es Hilfslinien zum Konstruieren, oben in der Leiste unter «Hilfslinie». «Parallele mit Abstand»: eine Linie im Plan, ein Ausmass oder eine Hilfslinie anklicken, den Abstand in mm eingeben und Enter. Die Parallele entsteht auf der Seite der Maus, umgerechnet mit dem Massstab des Plans. Gleich danach lassen sich weitere Abstände eingeben. «Waagrecht» und «Senkrecht durch Punkt» setzen eine Linie durch den angeklickten Punkt. Hilfslinien sind endlos, gestrichelt und zählen nirgends mit. Beim Zeichnen rasten Punkte auf Hilfslinien und ihren Schnittpunkten ein. Sie lassen sich ausblenden und per Rechtsklick löschen und werden im Projekt gesichert.</p>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.60.zip" length="6030935" type="application/octet-stream" sparkle:edSignature="/o+tPEUBPUo9C1hQBQneePJsTaoOMf5OQgNNgyWz7IA/1BfQSCl3cRgObJ/AQ10UiYglWGwOeMXEGeY6QTcaCw=="/>
+        </item>
+        <item>
             <title>Version 1.0.59</title>
             <pubDate>Tue, 10 Nov 2026 14:29:19 +0100</pubDate>
             <sparkle:version>61</sparkle:version>
