@@ -6,6 +6,15 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
         <item>
+            <title>Version 1.0.58</title>
+            <pubDate>Tue, 10 Nov 2026 14:20:28 +0100</pubDate>
+            <sparkle:version>60</sparkle:version>
+            <sparkle:shortVersionString>1.0.58</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Neu lässt sich eine Fläche von einer anderen abziehen, wie in einem CAD. Die Flächen mit ⌘ oder dem Rahmen markieren, Rechtsklick «Fläche abziehen» und wählen, welche Fläche bleibt. Die übrigen werden herausgeschnitten und gelöscht. Liegt die abgezogene Form ganz innen, entsteht ein sichtbares Loch, zum Beispiel für ein Treppenauge. Ragt sie über den Rand, wird nur der überlappende Teil abgezogen. Die Fläche rechnet automatisch netto, im Plan, im PDF und im Export. ⌘Z nimmt alles zurück.</p>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.58.zip" length="5930757" type="application/octet-stream" sparkle:edSignature="WHJ9b4mYzdXKzzzfE6FvJfNOBo0JAYuSilhVBT2zyro6ggOU5+YEV9aGgBOJMlOpDpYGYB8BAWpSckNHSOPYBw=="/>
+        </item>
+        <item>
             <title>Version 1.0.57</title>
             <pubDate>Tue, 10 Nov 2026 12:27:29 +0100</pubDate>
             <sparkle:version>59</sparkle:version>
