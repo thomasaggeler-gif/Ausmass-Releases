@@ -6,6 +6,15 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
         <item>
+            <title>Version 1.0.56</title>
+            <pubDate>Tue, 10 Nov 2026 12:22:53 +0100</pubDate>
+            <sparkle:version>58</sparkle:version>
+            <sparkle:shortVersionString>1.0.56</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>In der Seitenleiste reagieren die Pfeile zum Auf- und Zuklappen, die Griffe zum Ziehen, die Augen und die Farbpunkte auf eine grössere Fläche. Man muss nicht mehr genau auf das Symbol treffen. Zieht man eine Kategorie über eine Gruppe oder eine andere Kategorie, ist das Ziel blau umrandet.</p>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.56.zip" length="5904942" type="application/octet-stream" sparkle:edSignature="IPVcirwhQ6/rTiwJKTD+gUJMoor2j0qwNREmXjmzx8pltO/KtCedPn4425wKGJrmgmHq3lUoV2AUrCKQJG7lCQ=="/>
+        </item>
+        <item>
             <title>Version 1.0.55</title>
             <pubDate>Tue, 10 Nov 2026 12:20:22 +0100</pubDate>
             <sparkle:version>57</sparkle:version>
