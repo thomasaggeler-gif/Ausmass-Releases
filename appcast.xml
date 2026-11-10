@@ -6,6 +6,15 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
         <item>
+            <title>Version 1.0.54</title>
+            <pubDate>Tue, 10 Nov 2026 12:14:44 +0100</pubDate>
+            <sparkle:version>56</sparkle:version>
+            <sparkle:shortVersionString>1.0.54</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Das Auge einer Gruppe schaltet jetzt alle Kategorien der Gruppe: Ist mindestens eine sichtbar, blendet ein Klick alle aus, sonst blendet er alle ein. Das Auge der Gruppe zeigt offen, sobald eine Kategorie der Gruppe sichtbar ist. Wird eine einzelne Kategorie eingeblendet, geht das Auge der Gruppe mit an.</p>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.54.zip" length="5856299" type="application/octet-stream" sparkle:edSignature="ZR/fVyac9dgCay4Wa9M+1G0lmudVjEhSIFREXTSCVBa1LkGhkc+AtykvPK+SGryD2bM6bOFOyT2O8HQwPyHqCw=="/>
+        </item>
+        <item>
             <title>Version 1.0.53</title>
             <pubDate>Mon, 09 Nov 2026 15:57:18 +0100</pubDate>
             <sparkle:version>55</sparkle:version>
