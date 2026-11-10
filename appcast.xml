@@ -6,6 +6,15 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
         <item>
+            <title>Version 1.0.55</title>
+            <pubDate>Tue, 10 Nov 2026 12:20:22 +0100</pubDate>
+            <sparkle:version>57</sparkle:version>
+            <sparkle:shortVersionString>1.0.55</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Ausmass merkt sich die fünf zuletzt geöffneten Projekte. Beim Start stehen sie im Fenster unter «Zuletzt geöffnet» und lassen sich mit einem Klick öffnen, ebenso im Menü «Ablage» unter «Zuletzt geöffnete Projekte». Hat das aktuelle Projekt ungesicherte Änderungen, fragt Ausmass vor dem Öffnen eines anderen Projekts, ob gespeichert werden soll.</p>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.55.zip" length="5895746" type="application/octet-stream" sparkle:edSignature="gjdQV/l87jnO/Dt6SlpnwqxhFjpXHW5ccE5g4rhiTifWyA4CbMsaTC4xyggXQ0VZIyP5bAj/5SWLj4xNZOZJCA=="/>
+        </item>
+        <item>
             <title>Version 1.0.54</title>
             <pubDate>Tue, 10 Nov 2026 12:14:44 +0100</pubDate>
             <sparkle:version>56</sparkle:version>
