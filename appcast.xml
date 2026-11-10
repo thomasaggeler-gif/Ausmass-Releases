@@ -6,6 +6,15 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
         <item>
+            <title>Version 1.0.59</title>
+            <pubDate>Tue, 10 Nov 2026 14:29:19 +0100</pubDate>
+            <sparkle:version>61</sparkle:version>
+            <sparkle:shortVersionString>1.0.59</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Abziehen geht jetzt einfacher: Die Aussparung als neue Fläche in die bestehende Fläche zeichnen, dann Rechtsklick «Von darunterliegender Fläche abziehen». Ausmass findet die Fläche darunter selbst, schneidet die Aussparung heraus und löscht die neu gezeichnete Fläche. Zuerst zählen Flächen der gleichen Kategorie, damit zum Beispiel Boden und Decke im selben Raum nicht verwechselt werden. Nur wenn darunter Flächen aus mehreren Kategorien liegen, fragt das Menü nach der Kategorie.</p>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.59.zip" length="5947971" type="application/octet-stream" sparkle:edSignature="nM8EX+Atc/sf2nFsIomqeX4ORw8WrxqKaRi4F51LYyUW0GicO/8PU/MZN7WrfZSDwKUog5wJOuOUmRnKFW9qBg=="/>
+        </item>
+        <item>
             <title>Version 1.0.58</title>
             <pubDate>Tue, 10 Nov 2026 14:20:28 +0100</pubDate>
             <sparkle:version>60</sparkle:version>
