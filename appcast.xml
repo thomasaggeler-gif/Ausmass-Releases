@@ -6,6 +6,14 @@
     <description>Updates für Ausmass</description>
     <language>de</language>
         <item>
+            <title>Version 1.0.86</title>
+            <pubDate>Fri, 13 Nov 2026 11:14:19 +0100</pubDate>
+            <sparkle:version>88</sparkle:version>
+            <sparkle:shortVersionString>1.0.86</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/Ausmass-Releases/main/Ausmass-1.0.86.zip" length="7049755" type="application/octet-stream" sparkle:edSignature="xyzz8cPPkGNGN+iLxT8RwJIuXQlYXFPPRi1Mea9FT3hI/4mGnq7LBZiZOCkIS3/ysVWUJ2JSTiBDv+0ZvPbGDg=="/>
+        </item>
+        <item>
             <title>Version 1.0.85</title>
             <pubDate>Fri, 13 Nov 2026 11:10:23 +0100</pubDate>
             <sparkle:version>87</sparkle:version>
